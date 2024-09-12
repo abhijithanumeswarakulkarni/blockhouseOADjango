@@ -1,0 +1,17 @@
+{
+    "labels": [
+        "Royal Blue", "Bright Red", "Sunshine Yellow", "Forest Green", "Deep Pink", 
+        "Electric Purple", "Turquoise Blue", "Neon Green", "Magenta", "Vivid Orange", 
+        "Sky Blue", "Hot Coral", "Lime Green", "Goldenrod", "Steel Blue"
+    ],
+    "series": [
+        300, 50, 100, 75, 60, 
+        90, 120, 85, 70, 95, 
+        110, 65, 80, 40, 55
+    ],
+    "colors": [
+        "#4169E1", "#FF4500", "#FFD700", "#228B22", "#FF1493",
+        "#8A2BE2", "#00CED1", "#32CD32", "#FF00FF", "#FF6347",
+        "#87CEEB", "#FF6F61", "#32CD32", "#DAA520", "#4682B4"
+    ]
+}
